@@ -33,3 +33,14 @@ body{
     line-height: 33px;
     margin-bottom: 100px;
 }
+.card {
+    margin-bottom: 30px;
+}
+.cards {
+    padding: 0 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: stretch;
+
+}
