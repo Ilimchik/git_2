@@ -44,3 +44,10 @@ body{
     align-content: stretch;
 
 }
+.tower {
+    color: #000;
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 31px;
+}
