@@ -66,3 +66,15 @@ body{
     line-height: 27px;
     opacity: 0.7;
 }
+.button_1 {
+    width: 555px;
+    height: 60px;
+    border: 2px solid var(--Gray, #F6F6F6);
+    background: var(--Gray, #F6F6F6);
+    transition: 0.5s;
+
+}
+.button_1:hover{
+    background: var(--Link, #2A94E2);
+    color: #fff;
+}
